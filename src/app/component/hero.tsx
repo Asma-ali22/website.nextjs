@@ -12,7 +12,7 @@ const Hero = () => {
   </h1>
   <h2 className="mt-8 text-center text-slate-950 lg:text-2xl md:text-xl sm:text-lg">
     A good product description starts with an attention-grabbing product title, <br />
-    followed by a brief paragraph telling a story about a product's value
+    followed by a brief paragraph telling a story about a products value
   </h2>
 
   {/* <!-- Product Grid --> */}
